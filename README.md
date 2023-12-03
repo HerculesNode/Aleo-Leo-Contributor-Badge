@@ -20,9 +20,9 @@ Vps olmayan arkadaşlar Github Codespaces ile yapabilir.  https://github.com/cod
 sudo apt update && sudo apt upgrade -y
 sudo apt-get install git-all -y
 sudo apt-get install curl -y
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 sudo su
 ```
+
 Resimdeki gibi sorarsa N yazıp devam edin <br>
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/00fa0590-30b5-40a5-9656-97a040b223a6)
@@ -30,7 +30,9 @@ Resimdeki gibi sorarsa N yazıp devam edin <br>
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/ad2d7fed-5a36-4bfd-9c6e-e9dbc409c315)
 
-
+```shell
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 
 #### Cargo kuralım : 
 ```shell
