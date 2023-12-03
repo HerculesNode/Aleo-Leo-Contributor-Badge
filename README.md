@@ -148,6 +148,9 @@ git push -f origin main
 git remote set-url origin https://*********************@github.com/KULLANICI-ADINIZ/Aleo-Tiktacto 
 ```
 
+```shell
+git push -f origin main
+```
 <hr>
 ******* = GİTHUB TOKEN <br><br>
 KULLANICI ADI : GİTHUB KULLANICI ADINIZ <br><br>
