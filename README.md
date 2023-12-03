@@ -128,10 +128,6 @@ git commit -m "My first commit"
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/d583a138-4b3c-46aa-a959-4681239fc7d0)
 
 
-```shell
-git commit -m "My first commit"
-```
-
 #### Oluşturduğunuz reponun adresini girin
 ```shell
 git remote add origin https://github.com/REPO-ADRESİNİZ
