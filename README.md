@@ -144,12 +144,14 @@ git push -f origin main
 
 #### 🟢  CODESPACE KULLANANLAR BU KODU GİRSİN  ( ******* yazan yere githubdan aldığınız token yazın ,  KULLANICI ADINIZ EKLEYİN  )
 
-https://*********************@github.com/KULLANICI-ADINIZ/Aleo-Tiktacto <br>
-TOKEN = ALDIĞINIZ ŞİFRE GİTHUBDAN <br>
-KULLANICI ADI : GİTHUB KULLANICI ADINIZ <br>
+https://*********************@github.com/KULLANICI-ADINIZ/Aleo-Tiktacto <br><br>
+
+<hr>
+******* = ALDIĞINIZ ŞİFRE GİTHUBDAN <br><br>
+KULLANICI ADI : GİTHUB KULLANICI ADINIZ <br><br>
 
 Aleo-Tiktacto : oluşturduğunuz github sayfası <br>
-
+<hr>
 
 
 #### 🟢 sayfa bu şekilde ise işlem tamamdır.
