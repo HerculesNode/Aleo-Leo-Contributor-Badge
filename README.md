@@ -119,7 +119,7 @@ git commit -m "My first commit"
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/fe32363c-2b92-4d14-b0c0-af5b77e6c677)
 
 
-#### 🟢 Github repo oluşturalım Resimdeki gibi yapın
+#### 🟢 Github repo oluşturalım Resimdeki gibi yapın  Bu adrese gidin :  https://github.com/new
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/d583a138-4b3c-46aa-a959-4681239fc7d0)
 
