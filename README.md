@@ -16,34 +16,21 @@ Vps olmayan arkadaşlar Github Codespaces ile yapabilir.  https://github.com/cod
 
 ## 🟢 Sistem Güncelleme
 ```shell
+#!/bin/bash
 sudo apt update && sudo apt upgrade -y
+sudo apt-get install git-all -y
+sudo apt-get install curl -y
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo su
 ```
 Resimdeki gibi sorarsa N yazıp devam edin <br>
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/00fa0590-30b5-40a5-9656-97a040b223a6)
 
 
-```shell
-sudo apt-get install git-all -y
-```
-
-```shell
-sudo apt-get install curl -y
-```
-
-#### Rust Kuralım Y dedikten sonra 1 seçelim : 
-```shell
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/ad2d7fed-5a36-4bfd-9c6e-e9dbc409c315)
 
 
-
-#### Root olalım : 
-```shell
-sudo su
-```
 
 #### Cargo kuralım : 
 ```shell
