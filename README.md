@@ -57,6 +57,10 @@ sudo apt-get install build-essential -y
 ```
 
 ```shell
+cargo build
+```
+
+```shell
 sudo apt-get install libc6-dev -y
 ```
 ```shell
