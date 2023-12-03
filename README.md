@@ -25,6 +25,11 @@ Resimdeki gibi sorarsa N yazıp devam edin
 ```shell
 sudo apt-get install git-all -y
 ```
+
+```shell
+sudo apt-get install curl -y
+```
+
 #### Rust Kuralım Y dedikten sonra 1 seçelim : 
 ```shell
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
