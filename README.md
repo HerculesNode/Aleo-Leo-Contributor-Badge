@@ -18,7 +18,8 @@ Vps olmayan arkadaşlar Github Codespaces ile yapabilir.  https://github.com/cod
 ```shell
 sudo apt update && sudo apt upgrade -y
 ```
-Resimdeki gibi sorarsa N yazıp devam edin
+Resimdeki gibi sorarsa N yazıp devam edin <br>
+
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/00fa0590-30b5-40a5-9656-97a040b223a6)
 
 
