@@ -30,11 +30,12 @@ Resimdeki gibi sorarsa N yazıp devam edin <br>
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/ad2d7fed-5a36-4bfd-9c6e-e9dbc409c315)
 
+
+#### Cargo kuralım : 
+
 ```shell
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-
-#### Cargo kuralım : 
 ```shell
 source "$HOME/.cargo/env"
 ```
