@@ -6,6 +6,9 @@ Aleo Leo Contributor Badge Guide
 
 Bu badge ile Aleo sisteminde etkileşime geçerek katkıda bulunmanızı sağlar. Unutmayalım Tia gibi github etkileşime geçen kişilere 9K yakın tia drop vermişti
 
+Vps olmayan arkadaşlar Github Codespace ile yapabilir.  https://github.com/codespaces  
+
+
  ### Linkler
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/HerculesNode)
