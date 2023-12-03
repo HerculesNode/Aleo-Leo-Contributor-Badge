@@ -140,7 +140,7 @@ git remote add origin https://github.com/REPO-ADRESİNİZ
 
 
 
-#### 🟢 Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin.  Resimdeki gibi çıktı alacaksınız Sonra oluşturduğunuz github reposunu sayfayı yenileyin içinin dolduğunu göreceksiniz.
+#### 🟢 Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin resimdeki gibi çıktı alacaksınız. Sonra oluşturduğunuz github reposunu gidin sayfayı yenileyin içinin dolduğunu göreceksiniz.
 
 ```shell
 git push -f origin main
