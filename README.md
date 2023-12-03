@@ -121,7 +121,7 @@ git commit -m "My first commit"
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/d583a138-4b3c-46aa-a959-4681239fc7d0)
 
 
-#### Oluşturduğunuz reponun adresini girin
+#### VPS KULLANANLAR BU KODU GİRSİN Oluşturduğunuz reponun adresini girin
 ```shell
 git remote add origin https://github.com/REPO-ADRESİNİZ
 ```
@@ -133,13 +133,23 @@ git remote add origin https://github.com/REPO-ADRESİNİZ
 
 
 
-#### 🟢 Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin resimdeki gibi çıktı alacaksınız. Sonra oluşturduğunuz github reposunu gidin sayfayı yenileyin içinin dolduğunu göreceksiniz.
+#### 🟢  VPS KULLANANLAR BU KODU GİRSİN Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin resimdeki gibi çıktı alacaksınız. Sonra oluşturduğunuz github reposunu gidin sayfayı yenileyin içinin dolduğunu göreceksiniz.
 
 ```shell
 git push -f origin main
 ```
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
+
+
+#### 🟢  CODESPACE KULLANANLAR BU KODU GİRSİN  ( ******* yazan yere githubdan aldığınız token yazın ,  KULLANICI ADINIZ EKLEYİN  )
+
+https://*********************@github.com/KULLANICI-ADINIZ/Aleo-Tiktacto
+TOKEN = ALDIĞINIZ ŞİFRE GİTHUBDAN
+KULLANICI ADI : GİTHUB KULLANICI ADINIZ
+
+Aleo-Tiktacto : oluşturduğunuz github sayfas
+
 
 
 #### 🟢 sayfa bu şekilde ise işlem tamamdır.
