@@ -133,7 +133,7 @@ git remote add origin https://github.com/REPO-ADRESİNİZ
 
 
 
-#### 🟢  VPS KULLANANLAR BU KODU GİRSİN Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin resimdeki gibi çıktı alacaksınız. Sonra oluşturduğunuz github reposunu gidin sayfayı yenileyin içinin dolduğunu göreceksiniz.
+#### 🟢  VPS KULLANANLAR BU KODU GİRSİN Aşağıdaki komutu girin Ardından github kullanıcı adınızı yazın ve oluşturduğunuz tokeni girin.
 
 ```shell
 git push -f origin main
@@ -159,7 +159,7 @@ Aleo-Tiktacto : oluşturduğunuz github sayfası <br>
 <hr>
 
 
-#### 🟢 sayfa bu şekilde ise işlem tamamdır.
+#### 🟢 Sonra oluşturduğunuz github reposunu gidin sayfayı yenileyin içinin dolduğunu göreceksiniz.
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/ecfcc326-7d78-436c-a0a0-a45a456a1445)
 
