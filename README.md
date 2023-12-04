@@ -127,7 +127,7 @@ git remote add origin https://github.com/REPO-ADRESİNİZ
 ```
 
 
-#### 🟢 Github Token oluşturalım Resimdeki gibi yapın tüm izinleri verin ve keyi alın.  Bu adrese gidin : https://github.com/settings/tokens/new
+#### 🟢 Github Token oluşturalım tüm izinleri verin ve keyi alın.  Bu adrese gidin : https://github.com/settings/tokens/new
 
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/c8bc9705-893e-4ad6-8bce-bd4773b14131)
 
