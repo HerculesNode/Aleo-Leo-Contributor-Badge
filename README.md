@@ -12,7 +12,7 @@ Vps olmayan arkadaşlar Github Codespaces ile yapabilir.  https://github.com/cod
  ### Linkler
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/HerculesNode)
- * [Aleo Dc](https://discord.gg/aleohq)
+
 
 ## 🟢 Sistem Güncelleme
 ```shell
